@@ -1,6 +1,3 @@
-PluginVerisons
-==============
+Hent inn data her eller noe :*
 
-Used to check for new updates on my plugins
-
-BigTaste_Version: 1.0
+AktiverMelding: true
